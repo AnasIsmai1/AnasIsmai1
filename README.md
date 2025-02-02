@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next.Js<br>💬 Ask me about Angular, React and Node.Js<br>⚡ Fun fact If i'm not developing something then i'm probably thinking about developing something.
+🔭 I’m currently working as a Full-Stack Developer<br>👯 I’m looking to collaborate on Cloud based projects<br>🤝 I’m looking for help with Devops<br>🌱 I’m currently learning Next.Js<br>💬 Ask me about Angular, React and Node.Js<br>⚡ Fun fact If i'm not developing something then i'm probably thinking about developing something.
 
 
 ## 🌐 Socials:
