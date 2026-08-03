@@ -26,7 +26,7 @@ Document automation, RAG pipelines, multi-agent research systems.
 Web3 wallet and payment flows on the side.
 
 $ uptime
-shipping since 2023 | if it ain't broke, I automate it anyway
+shipping since 2022 | if it ain't broke, I automate it anyway
 ```
 
 ## Currently
