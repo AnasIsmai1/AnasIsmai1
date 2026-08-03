@@ -6,12 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://anas-ops.me"><img alt="Portfolio: anas-ops.me" src="https://img.shields.io/badge/Portfolio-B22222?style=for-the-badge"></a>
+  <a href="https://anasismail.dev"><img alt="Portfolio: anasismail.dev" src="https://img.shields.io/badge/Portfolio-B22222?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/sudoanas"><img alt="LinkedIn: sudoanas" src="https://img.shields.io/badge/LinkedIn-3F3F46?style=for-the-badge"></a>
   <a href="mailto:anas.ismail1911@gmail.com"><img alt="Email: anas.ismail1911@gmail.com" src="https://img.shields.io/badge/Email-3F3F46?style=for-the-badge"></a>
-  <!-- Resume badge: re-enable once https://anas-ops.me/anas-ismail-resume.pdf resolves (currently 404 + no TLS on the domain)
-  <a href="https://anas-ops.me/anas-ismail-resume.pdf"><img alt="Download resume" src="https://img.shields.io/badge/Resume-3F3F46?style=for-the-badge"></a>
-  -->
+  <a href="https://anasismail.dev/anas-ismail-resume.pdf"><img alt="Download resume" src="https://img.shields.io/badge/Resume-3F3F46?style=for-the-badge"></a>
 </p>
 
 ---
