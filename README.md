@@ -1,16 +1,13 @@
 <h1 align="center">Anas Ismail</h1>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=E04040&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+%26+AI+Automation+Developer;I+build+AI+agents+that+hold+up+in+production;RAG+pipelines+%7C+multi-agent+systems+%7C+doc+automation;If+it+ain't+broke%2C+I+automate+it+anyway">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=B22222&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+%26+AI+Automation+Developer;I+build+AI+agents+that+hold+up+in+production;RAG+pipelines+%7C+multi-agent+systems+%7C+doc+automation;If+it+ain't+broke%2C+I+automate+it+anyway">
-    <img alt="Full-Stack and AI Automation Developer. I build AI agents that hold up in production: RAG pipelines, multi-agent systems, document automation." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=B22222&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+%26+AI+Automation+Developer">
-  </picture>
+  <b>Full-Stack &amp; AI Automation Developer</b><br>
+  I build AI agents that hold up in production, not just in demos.
 </p>
 
 <p align="center">
   <a href="https://anas-ops.me"><img alt="Portfolio: anas-ops.me" src="https://img.shields.io/badge/Portfolio-B22222?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sudoanas"><img alt="LinkedIn: sudoanas" src="https://img.shields.io/badge/LinkedIn-3F3F46?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sudoanas"><img alt="LinkedIn: sudoanas" src="https://img.shields.io/badge/LinkedIn-3F3F46?style=for-the-badge"></a>
   <a href="mailto:anas.ismail1911@gmail.com"><img alt="Email: anas.ismail1911@gmail.com" src="https://img.shields.io/badge/Email-3F3F46?style=for-the-badge&logo=maildotru&logoColor=white"></a>
   <!-- Resume badge: re-enable once https://anas-ops.me/anas-ismail-resume.pdf resolves (currently 404 + no TLS on the domain)
   <a href="https://anas-ops.me/anas-ismail-resume.pdf"><img alt="Download resume" src="https://img.shields.io/badge/Resume-3F3F46?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
@@ -26,23 +23,25 @@ Anas Ismail - Full-Stack & AI Automation Developer
 $ pwd
 Pakistan (UTC+5) | remote | replies within 24h
 
-$ ps aux | grep anas
-mercury-sols     Associate Team Lead   [running]  AI systems, RAG, Web3 payments
-roll-with-code   Co-Founder            [running]  web agency, client delivery
-hermes           Personal AI agent     [running]  standups, reviews, research, finance
-freelance        Full-Stack Developer  [running]  since 2023
+$ cat ~/.focus
+AI agents that hold up in production - RAG pipelines, multi-agent systems,
+document automation. Web3 wallet and payment flows on the side.
 
 $ uptime
-shipping since 2023 | 4 platforms in production | promoted to lead in 4 months
+shipping since 2023 | if it ain't broke, I automate it anyway
 ```
 
 ## Currently
 
-| | |
-|:--|:--|
-| **Building** | Multi-agent AI workflows through **Hermes** - my own agent that runs standups, code reviews, research and finance over Telegram and WhatsApp |
-| **Learning** | RAG and document-parsing pipelines. Agents that survive production, not just demos |
-| **Open to** | Freelance AI automation and product engineering |
+<img alt="Building" src="https://img.shields.io/badge/Building-B22222?style=flat-square&logo=telegram&logoColor=white">&nbsp; **Hermes** - a multi-agent system that runs my workday over Telegram and WhatsApp: standup briefings, code reviews, research digests, finance tracking. My favourite side project is the one that does my chores.
+
+<img alt="Learning" src="https://img.shields.io/badge/Learning-B22222?style=flat-square&logo=huggingface&logoColor=white">&nbsp; RAG and document-parsing pipelines. Anyone can demo an agent. I want the ones that don't fall over at 3am.
+
+<img alt="Automating" src="https://img.shields.io/badge/Automating-B22222?style=flat-square&logo=zapier&logoColor=white">&nbsp; Anything I've done twice. The third time is a script, the fourth is an agent.
+
+<img alt="Playing" src="https://img.shields.io/badge/Playing-B22222?style=flat-square&logo=playstation&logoColor=white">&nbsp; God of War Ragnarök, again. Fuelled by an amount of coffee my doctor would like to discuss.
+
+<img alt="Open to" src="https://img.shields.io/badge/Open_to-B22222?style=flat-square&logo=gmail&logoColor=white">&nbsp; Freelance AI automation and product engineering. Bring me something weird.
 
 ## Selected work
 
@@ -88,7 +87,7 @@ shipping since 2023 | 4 platforms in production | promoted to lead in 4 months
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-3F3F46?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-3F3F46?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-3F3F46?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3F3F46?style=flat-square&logo=kubernetes&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-3F3F46?style=flat-square&logo=nginx&logoColor=white)
